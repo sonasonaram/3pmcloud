@@ -5,4 +5,7 @@ public class Student {
 	private int std;
 
 	public String getName() { return name; }
+
+	public int getId() { return id; }
+
 }
